@@ -1,0 +1,13 @@
+{
+  "name": "workflow-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LoicLissens/workflow-boilerplate.git",
+  "author": "Loïc Lissens <loiclissens@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglifycss": "^1.1.0"
+  }
+}
